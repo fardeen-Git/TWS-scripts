@@ -1,1 +1,1 @@
-this is a file created under new branch names as staging.
+this is a file created under a new branch named as staging.
